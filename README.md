@@ -3,9 +3,9 @@ C module 3
 
 EX NO:3-b) Check whether the given number is a armstrong number or not.
 
-Date:19/10/2025 
-Name: VASANTH S 
-Ref no: 25017538
+Date:26.03.2026 
+Name: HARI PRASATH M
+Ref no: 25018172
 
 AIM:
 To write a C program to check whether a given number is a armstrong number or not.
